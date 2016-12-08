@@ -1,0 +1,17 @@
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\obj\Debug\UServiceConnect.csprojResolveAssemblyReference.cache
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\bin\Debug\UServiceConnect.dll
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\bin\Debug\UServiceConnect.pdb
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\bin\Debug\UServiceConnect.pri
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\obj\Debug\UServiceConnect.dll
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\obj\Debug\UServiceConnect.pdb
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\obj\Debug\priconfig.xml
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\obj\Debug\priconfig.xml.intermediate
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\obj\Debug\layout.resfiles
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\obj\Debug\layout.resfiles.intermediate
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\obj\Debug\resources.resfiles
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\obj\Debug\resources.resfiles.intermediate
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\obj\Debug\pri.resfiles
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\obj\Debug\pri.resfiles.intermediate
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\obj\Debug\qualifiers.txt
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\obj\Debug\qualifiers.txt.intermediate
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\obj\Debug\MultipleQualifiersPerDimensionFound.txt

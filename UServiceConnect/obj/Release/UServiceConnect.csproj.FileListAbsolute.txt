@@ -1,0 +1,16 @@
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\bin\Release\UServiceConnect.dll
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\bin\Release\UServiceConnect.pdb
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\bin\Release\UServiceConnect.pri
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\obj\Release\UServiceConnect.dll
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\obj\Release\UServiceConnect.pdb
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\obj\Release\priconfig.xml
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\obj\Release\priconfig.xml.intermediate
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\obj\Release\layout.resfiles
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\obj\Release\layout.resfiles.intermediate
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\obj\Release\resources.resfiles
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\obj\Release\resources.resfiles.intermediate
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\obj\Release\pri.resfiles
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\obj\Release\pri.resfiles.intermediate
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\obj\Release\qualifiers.txt
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\obj\Release\qualifiers.txt.intermediate
+c:\users\yedek\documents\visual studio 2015\Projects\UServiceConnect\UServiceConnect\obj\Release\MultipleQualifiersPerDimensionFound.txt
