@@ -1,6 +1,6 @@
 # <h1>UServiceConnect.dll</h1>
 
-UWP uygularda asenkron servis isteklerine bulunmaya yarayan yardımcı kütüphanesi.
+UWP uygularda asenkron servis isteklerine bulunmaya yarayan yardımcı kütüphane.
 
 **Örnekleme**
 
