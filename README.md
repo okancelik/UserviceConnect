@@ -42,7 +42,7 @@ Uygun Authenticationa göre aşağıdaki gibi örneklenir.
             object response;
             response = await asyncRequest.GetAsync("http://192.168.1.79/ExampleApi/api/Products/Gets");
 
-            *****************************************************************************************
+            //*****************************************************************************************
 
             // Basic Authentication. 
 
@@ -50,7 +50,7 @@ Uygun Authenticationa göre aşağıdaki gibi örneklenir.
             object response;
             response = await asyncRequest.GetAsync("http://192.168.1.79/ExampleApi/api/Products/Gets");
 
-            *****************************************************************************************
+            //*****************************************************************************************
 
             // Token Based Authentication. 
 
@@ -80,7 +80,7 @@ Uygun Authenticationa göre aşağıdaki gibi örneklenir.
             object response;
             response = await asyncRequest.PostAsync("http://192.168.1.79/ExampleApi/api/Products/Create", json);
 
-            *****************************************************************************************
+            //*****************************************************************************************
 
             // Basic Authentication. 
 
@@ -89,7 +89,7 @@ Uygun Authenticationa göre aşağıdaki gibi örneklenir.
             object response;
             response = await asyncRequest.PostAsync("http://192.168.1.79/ExampleApi/api/Products/Create", json);
 
-            *****************************************************************************************
+            //*****************************************************************************************
 
             // Token Based Authentication. 
 
@@ -120,7 +120,7 @@ Uygun Authenticationa göre aşağıdaki gibi örneklenir.
             object response;
             response = await asyncRequest.PutAsync("http://192.168.1.79/ExampleApi/api/Products/Update", json);
 
-            *****************************************************************************************
+            //*****************************************************************************************
 
             // Basic Authentication. 
 
@@ -129,7 +129,7 @@ Uygun Authenticationa göre aşağıdaki gibi örneklenir.
             object response;
             response = await asyncRequest.PutAsync("http://192.168.1.79/ExampleApi/api/Products/Update", json);
 
-            *****************************************************************************************
+            //*****************************************************************************************
 
             // Token Based Authentication. 
 
@@ -159,7 +159,7 @@ Uygun Authenticationa göre aşağıdaki gibi örneklenir.
             object response;
             response = await request.DeleteAsync("http://192.168.1.79/ExampleApi/api/Products/Delete/5");
 
-            *****************************************************************************************
+            //*****************************************************************************************
 
             // Basic Authentication. 
 
@@ -167,7 +167,7 @@ Uygun Authenticationa göre aşağıdaki gibi örneklenir.
             object response;
             response = await request.DeleteAsync("http://192.168.1.79/ExampleApi/api/Products/Delete/5");
 
-            *****************************************************************************************
+            //*****************************************************************************************
 
             // Token Based Authentication. 
 
