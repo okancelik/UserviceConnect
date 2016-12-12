@@ -1,6 +1,6 @@
-# <h1>UserviceConnect</h1>
+# <h1>UserviceConnect.dll</h1>
 
-UWP uygularda servis isteklerini kolaylaştıran dll kütüphanesi.
+UWP uygularda asenkron servis isteklerine bulunmaya yarayan yardımcı kütüphanesi.
 
 **Örnekleme**
 
@@ -157,7 +157,7 @@ Uygun Authenticationa göre aşağıdaki gibi örneklenir.
 
             UHttpServiceAsyncRequest asyncRequest = new UHttpServiceAsyncRequest();
             object response;
-            response = request.DeleteAsync("http://192.168.1.79/ExampleApi/api/Products/Delete/5");
+            response = await request.DeleteAsync("http://192.168.1.79/ExampleApi/api/Products/Delete/5");
 
             *****************************************************************************************
 
@@ -165,7 +165,7 @@ Uygun Authenticationa göre aşağıdaki gibi örneklenir.
 
             UHttpServiceAsyncRequest asyncRequest = new UHttpServiceAsyncRequest("user1","1234");
             object response;
-            response = request.DeleteAsync("http://192.168.1.79/ExampleApi/api/Products/Delete/5");
+            response = await request.DeleteAsync("http://192.168.1.79/ExampleApi/api/Products/Delete/5");
 
             *****************************************************************************************
 
@@ -175,6 +175,6 @@ Uygun Authenticationa göre aşağıdaki gibi örneklenir.
 
             UHttpServiceAsyncRequest asyncRequest = new UHttpServiceAsyncRequest(accessToken);
             object response;
-            response = request.DeleteAsync("http://192.168.1.79/ExampleApi/api/Products/Delete/5");
+            response = await request.DeleteAsync("http://192.168.1.79/ExampleApi/api/Products/Delete/5");
 
 
