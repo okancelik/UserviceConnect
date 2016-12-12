@@ -1,4 +1,4 @@
-# <h1>UserviceConnect.dll</h1>
+# <h1>UServiceConnect.dll</h1>
 
 UWP uygularda asenkron servis isteklerine bulunmaya yarayan yardımcı kütüphanesi.
 
